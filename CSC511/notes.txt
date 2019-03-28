@@ -1,0 +1,39 @@
+Week 2:
+
+* identifiers - are the names given to a function, class or variable
+              - they are made up of any combination of letters, numbers and the underscore.
+              - the following are rules when selecting identifiers:
+                    1. first character must be a letter or underscore
+                    2. following characters after the first character can consist of letters, digits or the underscore
+                    3. can not be a c++ keyword
+                    4. maximum number of characters is 1024^5
+
+* a good identifier is one that helps convey what the function does.
+* indentifiers represented with in all uppercase letters are usually reserved for (symbolic)constants
+* c++ is case sensitive (the compiler distinguishes between uppercase and lowercase characters)
+        > eg: TOTAL, Total, total; though they are made up of the same characters or have the same meaning,
+              the compiler interprets them as three different variables.
+
+* advantages of using a function in a program: 
+        > makes the code clear and easy to understand
+        > saves you the hassle of typing the same code multiple times, thus improving productivity
+        > individual functions can be easily tested
+        > incase there is any modification in the code, you can modify just the function without having to change the 
+          entire structure of the program.
+
+int main()
+{
+    cout << "hello world";
+
+    return 0;
+}
+
+* the function header line in this case 'int main()' contains 3 pieces of information:
+    > what type of data(if any) is returned from the function
+    > name of the function 
+    > what type of data (if any) is sent to the function
+
+* argument - data transmitted to the function at runtime.
+
+* {  } - determine the beginning and the end of the function body
+

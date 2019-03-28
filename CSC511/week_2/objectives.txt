@@ -1,0 +1,13 @@
+* discuss modular programming in C++
+
+* discuss the overall structure of C++ program
+
+* discuss the different data types and its purpose
+
+* declare and use variables
+
+* declare and use constant variables
+
+* discuss the naming conventions of variables and constant variables
+
+* initialize or assign values to variables and constant variables

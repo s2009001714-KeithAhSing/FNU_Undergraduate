@@ -1,0 +1,104 @@
+if(condition)
+	statments to execute when the condition is true;
+	else
+		statments to execute when the condition is false;
+
+//use braces to identify blocks of code for if..else
+if(fnum > snum) 
+	max = fnum;
+	else
+		max = snum;
+
+
+if(fnum > snum)
+{
+	max = fnum;
+	cout <<"max = "<<max;
+}	
+	else
+	{
+		max = snum;
+		cout <<"max = "<<max;
+	}
+
+if(a >= 15)
+    sum = sum + a;
+
+if(condtion 1) && (condition 2)
+	//both condition has to be true
+
+
+
+if(condtion 1) || (condition 2)
+	//if any one of the condition is true
+
+if(condtion)
+{
+	statement 1;
+	if(condtion)
+	{
+
+	}
+		else
+		{
+
+		}
+
+	statement n;
+
+}
+	else
+	{
+
+
+	}
+
+
+if(condtion1)
+{
+  statement1;
+}
+  else if(condition2)
+  {
+    statement2;
+  }
+     else if(condtion3)
+     {
+         statement3;
+     }
+        else
+	{
+	  statement4;
+	}
+
+
+switch(variable)
+{
+  case 1:
+	cout<<"Tellers";
+	break;
+  case 2:
+	cout<<"Enquiry";
+	break;
+  case 3:
+	cout<<"Loans";
+	break;
+  case 4:
+	cout<<"New Accounts";
+	break;
+  default:
+	cout<<"incorrect choice";
+	break;
+}
+
+
+
+
+
+
+
+
+
+
+
+

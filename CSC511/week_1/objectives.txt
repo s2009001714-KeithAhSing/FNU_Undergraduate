@@ -1,0 +1,73 @@
+* Explain computer systems hardware, software and the internet 
+    > computer systems: is a complete working computer. this includes the computer along with 
+      any software and peripheral devices that are necessary to make the computer function.
+
+    > software: a self-contained set of instructions used to operate a computer to produce a specific 
+                result.
+
+    > hardware: these are the physical parts of a computer, such as the monitor, keyboard, sound card,
+                motherboard etc
+
+    > internet: also called 'the net' is a worldwide system of computer networks i.e a network of networks 
+                in which users at any one computer with the right permissions can get information from any 
+                other computer.
+
+* Explain the definition of a program
+    > a program is a self-contained set of instructions created to operate a computer 
+
+* Explain a programs design process 
+    > there are four steps in the design process:
+        step 1: analysis 
+            > determine the inputs and output of the program
+        step 2: design 
+            > here an algorithm is selected or created to solve the problem. the algorithm is 
+              continuely refined until the solution is complete and acceptable.
+        step 3: coding 
+            > coding begins in this step. the algorithm developed in step 2 is written in  
+              the desired programming language of choice, containing well-defined patterns and 
+              structures such as sequence, selection, iteration and invocation
+        step 4: testing 
+            > program is tested with extreme values and under certain conditions to verify correctness and 
+              to ensure that all the requirements are met.
+
+* Explain problem solving 
+    > in the context of computer science, problem solving begins with first understanding how humans solve problems,
+      creating/selecting an algorithm to solve the problem, then translating the said algorithm into a language that can 
+      be executed by a computer.
+    > simply put, using the software development procedure to solve a problem.
+
+* Use various design tools to breakdown problems into manageable programmable bits
+
+* Discuss different ways of writing algorithms 
+    > algorithms can be represented by:
+        * pseudocode
+        * formulae
+        * flow charts
+
+* Discuss software development phases and steps(analysis, design, coding and testing)
+    There are 3 phases in software development:
+        Phase 1: Design and development
+            > this phase has 4 steps(detailed explanation above)
+
+        Phase 2: Documentation
+            > the following documentation must be included for every problem solution:
+                * program description
+                * algorithm development and changes
+                * well-commented program listings
+                * sample test runs 
+                * user manuals 
+
+        Phase 3: Maintenance 
+            > includes:
+                * ongoing correction of newly discovered bugs
+                * revisions to meet changing user needs
+                * addition of new features 
+            > usually the longest phase
+            > primary source of revenue
+            > to achieve effective maintenance, good documentation is vital
+
+
+
+
+
+
